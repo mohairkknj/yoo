@@ -1,0 +1,16 @@
+* {
+    margin: 8;
+    padding: 8;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(44, 44, 48);
+    color: aliceblue;
+    font-size: medium;
+  
+    img {
+        width: 200px; /* Sets the width to 200 pixels */
+        height: 150px; /* Sets the height to 150 pixels */
+      }
+      
+    
